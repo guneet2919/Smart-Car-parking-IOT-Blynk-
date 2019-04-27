@@ -7,7 +7,7 @@ Seeking a vacant parking space during peak hours in areas like Hospitals, Hotels
 
 The second part in this application is doing analysis on parking trends in a parking lot. The analysis gives information about which parking space is most occupied and least occupied and at what times of the day. This information is helpful in choosing one parking space when there are multiple available, keeping in mind the history of that space. For example, when there are more than one vacant slots the driver will want to choose the one that has less occupancy rate because the high occupancy rated slot might be wanted by many other drivers and you don't want to waste your time reaching that slot. 
 
-Software Requirement
+<h2>Software Requirement</h2>
 
 Operating System: Windows 7, Windows 8 or Windows 10 
 IDE: Arduino software 
@@ -22,4 +22,6 @@ Browser: Chrome or Firefox or Internet Explorer
  Higher RAM:4 GB or above
 
 Users who want to use the application can directly deploy the war file in Arduino Uno and run the app using localhost with the port number that is configured during installation of the web server. The path to the web application is passed along with localhost to the application.
+
+<h2>The video is on our youtube channel</h2>
 
